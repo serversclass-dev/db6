@@ -1,0 +1,20 @@
+{
+  "ghoul": {
+    "username": "ghoul",
+    "password": "@Aa1Bb2Cc3",
+    "student_type": "علمي",
+    "telegram_user_id": "5079424595",
+    "telegram_username": "TOKAREVII",
+    "telegram_first_name": "𝐆𝐇𓁿𝐔𝐋",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_3.jpg",
+    "session_id": "2af41d1c-9afa-43ef-ae6e-5c9e85bdf846",
+    "created_at": "2026-05-07T08:51:11.606346",
+    "verified": true,
+    "last_login": "2026-05-07T16:01:52.387027",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 6
+  }
+}
